@@ -5,7 +5,7 @@ Hello, I am Bibash Tandon, a passionate and forward-thinking individual deeply i
 
 Here is my Twitter (Now X) profile -> [stormyymrots](https://x.com/stormyymrots)
 
-Here is my Gmail -> [Gmail](bibashtandon958@gmail.com)
+Here is my Gmail -> bibashtandon958@gmail.com
 
 ## Vulnerabilities Discovered
 Below is a compilation of all the vulnerabilities I discovered in public contests on [CodeHawks](https://www.codehawks.com) and [Code4rena](https://www.code4rena.com).
