@@ -12,7 +12,7 @@ Below is a compilation of all the vulnerabilities I discovered in public contest
 | Contest | About Project | Platform | Findings |
 |:--:|:--:|:--:|:--:|
 | [The Standard](https://codehawks.cyfrin.io/c/2023-12-the-standard) | Lending | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/227) |
-| [Munchables](https://code4rena.com/reports/2024-05-munchables) | Web3 Point Farming Game | Code4rena | [Medium-1](https://code4rena.com/findings/past-finding/379?repo_name=2024-05-munchables-findings&issue_number=502) |
+| [Munchables](https://code4rena.com/reports/2024-05-munchables) | Web3 Point Farming Game | Code4rena | [Medium-1](https://github.com/code-423n4/2024-05-munchables-findings/issues/502) |
 | [DeFi Stablecoin](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin) | Stablecoin | Codehawks | [Medium-1](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/545), [Low-1](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/533), [Gas-1](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/537), [Gas-2](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/543) | 
 | [BeedleFi](https://codehawks.cyfrin.io/c/2023-07-beedle) | Oracle Free Perpetual Lending | Codehawks  | [Low-1](https://codehawks.cyfrin.io/c/2023-07-beedle/s/1330), [Gas-1](https://codehawks.cyfrin.io/c/2023-07-beedle/s/1517), [Gas-2](https://codehawks.cyfrin.io/c/2023-07-beedle/s/1589) |
 | [Sparkn](https://codehawks.cyfrin.io/c/2023-08-sparkn) | Marketplace | Codehawks | [Low-1](https://codehawks.cyfrin.io/c/2023-08-sparkn/s/358) | 
@@ -27,4 +27,4 @@ I have been continually learning about blockchain security through [Cyfrin Updra
 
 I believe that with dedication, continuous learning, and a proactive approach, we can create a more secure and innovative blockchain ecosystem. Let's connect and collaborate to build a decentralized future together.
 
-Thank you for visiting my portfolio!
+Thank you for visiting my web3 audit portfolio!
