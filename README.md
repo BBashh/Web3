@@ -19,6 +19,7 @@ Below is a compilation of all the vulnerabilities I discovered in public contest
 | [Codehawks Escrow](https://codehawks.cyfrin.io/c/2023-07-escrow) | Escrow Contract | Codehawks | [High-1](https://codehawks.cyfrin.io/c/2023-07-escrow/s/473), [Gas-1](https://codehawks.cyfrin.io/c/2023-07-escrow/s/483) | 
 | [Dussehra](https://codehawks.cyfrin.io/c/2024-06-Dussehra) | First Flight #17 | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2024-06-Dussehra/s/334), [High-2](https://codehawks.cyfrin.io/c/2024-06-Dussehra/s/339), [Low-1](https://codehawks.cyfrin.io/c/2024-06-Dussehra/s/336) |  
 | [The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter) | First Flight #20 | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/95/), [High-2](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/98/), [Medium-1](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/96/) |  
+| [MyCut](https://codehawks.cyfrin.io/c/2024-08-MyCut) | First Flight #23 | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/282), [Medium-1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/287), [Low-1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/286) |  
 | More to come... | | |
 
 
