@@ -21,6 +21,7 @@ Below is a compilation of all the vulnerabilities I discovered in public contest
 | [The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter) | First Flight #20 | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/95/), [High-2](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/98/), [Medium-1](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/96/) |  
 | [MyCut](https://codehawks.cyfrin.io/c/2024-08-MyCut) | First Flight #23 | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/282), [Medium-1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/287), [Low-1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/286) |  
 | [Trick Or Treat](https://codehawks.cyfrin.io/c/2024-10-trick-or-treat) | First Flight #27 | Codehawks | [Low-1](https://codehawks.cyfrin.io/c/2024-10-trick-or-treat/s/81) | 
+| [GivingThanks](https://codehawks.cyfrin.io/c/2024-11-giving-thanks) | First Flight #28 | Codehawks | [High-1](https://codehawks.cyfrin.io/c/2024-11-giving-thanks/s/412), [High-2](https://codehawks.cyfrin.io/c/2024-11-giving-thanks/s/414), [Medium-1](https://codehawks.cyfrin.io/c/2024-11-giving-thanks/s/413) | 
 
 | More to come... | | |
 
