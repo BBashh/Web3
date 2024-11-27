@@ -13,6 +13,7 @@ Below is a compilation of all the vulnerabilities I discovered in public contest
 |:--:|:--:|:--:|:--:|
 | [The Standard](https://codehawks.cyfrin.io/c/2023-12-the-standard) | Lending | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/227) |
 | [Munchables](https://code4rena.com/reports/2024-05-munchables) | Web3 Point Farming Game | Code4rena | [Medium-1](https://github.com/code-423n4/2024-05-munchables-findings/issues/502) |
+| [Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria) | AI Marketplace | Codehawks | [Medium-1](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/725), [Low-1](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/591)| 
 | [DeFi Stablecoin](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin) | Stablecoin | Codehawks | [Medium-1](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/545), [Low-1](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/533), [Gas-1](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/537), [Gas-2](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/s/543) | 
 | [BeedleFi](https://codehawks.cyfrin.io/c/2023-07-beedle) | Oracle Free Perpetual Lending | Codehawks  | [Low-1](https://codehawks.cyfrin.io/c/2023-07-beedle/s/1330), [Gas-1](https://codehawks.cyfrin.io/c/2023-07-beedle/s/1517), [Gas-2](https://codehawks.cyfrin.io/c/2023-07-beedle/s/1589) |
 | [Sparkn](https://codehawks.cyfrin.io/c/2023-08-sparkn) | Marketplace | Codehawks | [Low-1](https://codehawks.cyfrin.io/c/2023-08-sparkn/s/358) | 
