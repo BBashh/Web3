@@ -8,9 +8,10 @@ Here is my Twitter (Now X) profile -> [stormyymrots](https://x.com/stormyymrots)
 Here is my Gmail -> bibashtandon958@gmail.com
 
 ## Vulnerabilities Discovered
-Below is a compilation of all the vulnerabilities I discovered in public contests on [CodeHawks](https://www.codehawks.com) and [Code4rena](https://www.code4rena.com).
+Below is a compilation of all the vulnerabilities I discovered in public contests on [CodeHawks](https://www.codehawks.com), [Sherlock Defi](https://www.sherlock.xyz/) and [Code4rena](https://www.code4rena.com).
 | Contest | About Project | Platform | Findings |
 |:--:|:--:|:--:|:--:|
+| [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675?filter=questions) | Onchain Social Reputation Platform | Sherlock Defi  | [High-1](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/132) |
 | [The Standard](https://codehawks.cyfrin.io/c/2023-12-the-standard) | Lending | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/227) |
 | [Munchables](https://code4rena.com/reports/2024-05-munchables) | Web3 Point Farming Game | Code4rena | [Medium-1](https://github.com/code-423n4/2024-05-munchables-findings/issues/502) |
 | [Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria) | AI Marketplace | Codehawks | [Medium-1](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/725), [Low-1](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/591)| 
