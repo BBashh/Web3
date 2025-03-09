@@ -11,6 +11,7 @@ Here is my Gmail -> bibashtandon958@gmail.com
 Below is a compilation of all the vulnerabilities I discovered in public contests on [CodeHawks](https://www.codehawks.com), [Sherlock Defi](https://www.sherlock.xyz/) and [Code4rena](https://www.code4rena.com).
 | Contest | About Project | Platform | Findings |
 |:--:|:--:|:--:|:--:|
+| [Rova Contracts](https://audits.sherlock.xyz/contests/498?filter=questions) | Onchain Token Launchpad | Sherlock Defi  | [Medium-1](https://github.com/sherlock-audit/2025-02-rova-judging/issues/228) |
 | [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675?filter=questions) | Onchain Social Reputation Platform | Sherlock Defi  | [High-1](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/132) |
 | [The Standard](https://codehawks.cyfrin.io/c/2023-12-the-standard) | Lending | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/227) |
 | [Munchables](https://code4rena.com/reports/2024-05-munchables) | Web3 Point Farming Game | Code4rena | [Medium-1](https://github.com/code-423n4/2024-05-munchables-findings/issues/502) |
