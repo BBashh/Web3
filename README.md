@@ -8,7 +8,7 @@ Here is my Twitter (Now X) profile -> [stormyymrots](https://x.com/stormyymrots)
 Here is my Gmail -> bibashtandon958@gmail.com
 
 ## Vulnerabilities Discovered
-Below is a compilation of all the vulnerabilities I discovered in public contests on [CodeHawks](https://www.codehawks.com), [Sherlock Defi](https://www.sherlock.xyz/) and [Code4rena](https://www.code4rena.com).
+Below is a compilation of all the vulnerabilities I discovered in public contests on [CodeHawks](https://www.codehawks.com), [Sherlock Defi](https://www.sherlock.xyz/), [Cantina](https://cantina.xyz/), and [Code4rena](https://www.code4rena.com).
 | Contest | About Project | Platform | Findings |
 |:--:|:--:|:--:|:--:|
 | [Rova Contracts](https://audits.sherlock.xyz/contests/498?filter=questions) | Onchain Token Launchpad | Sherlock Defi  | [Medium-1](https://github.com/sherlock-audit/2025-02-rova-judging/issues/228) |
