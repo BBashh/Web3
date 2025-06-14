@@ -12,6 +12,7 @@ Below is a compilation of all the vulnerabilities I discovered in public contest
 | Contest | About Project | Platform | Findings |
 |:--:|:--:|:--:|:--:|
 | [Rova Contracts](https://audits.sherlock.xyz/contests/498?filter=questions) | Onchain Token Launchpad | Sherlock Defi  | [Medium-1](https://github.com/sherlock-audit/2025-02-rova-judging/issues/228) |
+| [RAAC Core contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | Onchain Real Estate | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2025-02-raac/s/622), [Low-1](https://codehawks.cyfrin.io/c/2025-02-raac/s/539), [Low-2](https://codehawks.cyfrin.io/c/2025-02-raac/s/928),[Low-3](https://codehawks.cyfrin.io/c/2025-02-raac/s/3599),[Low-4](https://codehawks.cyfrin.io/c/2025-02-raac/s/1145) |
 | [Coinbase](https://cantina.xyz/portfolio/41b7be20-b58d-4d20-9bf0-e368aa80539c) | Spend Permissions | Cantina  | [Low-1](https://solodit.cyfrin.io/issues/batch-approval-duplicate-permissions-vulnerability-in-approvebatchwithsignature-cantina-none-coinbase-pdf) |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Staking | Code4rena  | [Medium-1](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-437) |
 | [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675?filter=questions) | Onchain Social Reputation Platform | Sherlock Defi  | [High-1](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/132) |
