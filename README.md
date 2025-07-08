@@ -11,6 +11,7 @@ Here is my Gmail -> bibashtandon958@gmail.com
 Below is a compilation of all the vulnerabilities I discovered in public contests on [CodeHawks](https://www.codehawks.com), [Sherlock Defi](https://www.sherlock.xyz/), [Cantina](https://cantina.xyz/), and [Code4rena](https://www.code4rena.com).
 | Contest | About Project | Platform | Findings |
 |:--:|:--:|:--:|:--:|
+| [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991?filter=questions) | Cross-Chain DEX | Sherlock Defi  | [High-1](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/306) |
 | [Rova Contracts](https://audits.sherlock.xyz/contests/498?filter=questions) | Onchain Token Launchpad | Sherlock Defi  | [Medium-1](https://github.com/sherlock-audit/2025-02-rova-judging/issues/228) |
 | [RAAC Core contracts](https://codehawks.cyfrin.io/c/2025-02-raac) | Onchain Real Estate | Codehawks  | [High-1](https://codehawks.cyfrin.io/c/2025-02-raac/s/622), [Low-1](https://codehawks.cyfrin.io/c/2025-02-raac/s/539), [Low-2](https://codehawks.cyfrin.io/c/2025-02-raac/s/928),[Low-3](https://codehawks.cyfrin.io/c/2025-02-raac/s/3599),[Low-4](https://codehawks.cyfrin.io/c/2025-02-raac/s/1145) |
 | [Coinbase](https://cantina.xyz/portfolio/41b7be20-b58d-4d20-9bf0-e368aa80539c) | Spend Permissions | Cantina  | [Low-1](https://solodit.cyfrin.io/issues/batch-approval-duplicate-permissions-vulnerability-in-approvebatchwithsignature-cantina-none-coinbase-pdf) |
