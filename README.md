@@ -1,9 +1,7 @@
 # Web3 Portfolio
 
 ## Introduction
-Hello, I am Bibash Tandon, a passionate and forward-thinking individual deeply interested in blockchain technology and decentralized finance (DeFi). I am eager to apply my knowledge and skills in blockchain development, smart contract programming, and decentralized applications (DApps) to contribute meaningfully to innovative projects and solutions in the blockchain and DeFi space.
-
-Here is my Twitter (Now X) profile -> [stormyymrots](https://x.com/stormyymrots)
+Hello, I am Bibash Tandon, a passionate and forward-thinking individual. I am eager to apply my knowledge and skills in blockchain development, smart contract programming, and decentralized applications (DApps) to contribute meaningfully to innovative projects and solutions in the blockchain and DeFi space.
 
 Here is my Gmail -> bibashtandon958@gmail.com
 
@@ -37,9 +35,8 @@ Below is a compilation of all the vulnerabilities I discovered in public contest
 
 
 ## Conclusion
+This journey of learning and improving is a never-ending process, and I am committed to staying updated with the latest advancements and best practices in the field. My passion for blockchain technology drives me to constantly evolve and strive for excellence. 
+Currently exploring AI/AI Security since it's booomingggggg.....
 
-I have been continually learning about blockchain security through [Cyfrin Updraft](https://updraft.cyfrin.io/). This journey of learning and improving is a never-ending process, and I am committed to staying updated with the latest advancements and best practices in the field. My passion for blockchain technology drives me to constantly evolve and strive for excellence.
 
-I believe that with dedication, continuous learning, and a proactive approach, we can create a more secure and innovative blockchain ecosystem. Let's connect and collaborate to build a decentralized future together.
-
-Thank you for visiting my web3 audit portfolio!
+Thank you for visiting!
